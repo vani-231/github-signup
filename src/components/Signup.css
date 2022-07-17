@@ -1,0 +1,31 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width:20%;
+    border: 1px solid black;
+    padding: 3%;
+    margin: auto;
+}
+button{
+    background-color: rgb(103, 173, 103);
+    color: white;
+    border: none;
+}
+input,label{
+    margin-top: 2%;
+    border-color: rgb(133, 129, 129);
+
+}
+input,label,button{
+    height:2rem;
+    border-radius: 4%;
+}
+button{
+    margin-top: 10%;
+}
+
+.data{
+    border: 2px solid black;
+    padding: 2%;
+    width:10%;
+}
